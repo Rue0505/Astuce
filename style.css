@@ -1,5 +1,4 @@
-@import
-url('https://rue0505.github.io/Hello-world/');
+<style>
 h1 {
     color: black;
     text-align: center;
@@ -9,3 +8,4 @@ h1 {
     font-family: verdana;
     font-size: 20px;
 }   
+</style>
