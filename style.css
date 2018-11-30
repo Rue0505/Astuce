@@ -2,7 +2,7 @@ h1 {
     color: black;
     text-align: center;
     
- presentation.p {
+ .presentation {
     color: blue;
     font-family: verdana;
     font-size: 20px;
