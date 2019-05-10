@@ -11,7 +11,7 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 500px;
+  height: 2000px;
 }
 
 h1 {
@@ -22,18 +22,13 @@ h1 {
 }
 
 
-h3{
-  color: #5978d3;
-}
-
-
 p{
-  color: #091947;
+  color: Black;
 
 }
 
 a{
-  color: #F9C900;
+  color: green;
     text-decoration:none;
 }
 
