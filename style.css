@@ -23,8 +23,10 @@ h1 {
 
 
 p{
-  color: Black;
-
+ color: Black;
+ width:200px;
+ padding:40px;
+ margin:auto;
 }
 
 a{
